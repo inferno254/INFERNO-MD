@@ -2,7 +2,7 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 
 cmd({
-    pattern: "miku",
+    pattern: "Inferno",
     desc: "Check bot online or no.",
     category: "main",
     react: "👋",
@@ -13,17 +13,17 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*Im MIKU MD Whatsapp Bot Create By Malvin King 🍂✨*
+*Im INFERNO MD Whatsapp Bot Create By Eric (Inferno254) 🍂✨*
 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
 | *Owner*: Malvin King
 
-I am Miku md whatsapp bot. How can I help you.
+I am Inferno md whatsapp bot. How can I help you.
 To get the menu, type as .menu . If you need to know something about the bot,
 type as owner and direct the question to me. Good day.
 
-*°᭄🇿🇼™️ 𝙼𝙸𝙺𝚄 𝙼𝙳*
+*°᭄🇰🇪1™️ INFERNO 𝙼𝙳*
 
  > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
