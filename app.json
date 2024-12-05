@@ -1,7 +1,7 @@
 {
-  "name": "MIKU-MD",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/n5vvij.jpg",
+  "name": "INFERNO-MD",
+  "description": "Javascript WhatsApp bot made by Eric 254",
+  "logo": "https://files.catbox.moe/oriknn.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://files.catbox.moe/qgvnvg.jpg",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "Aint dying anytime soon.",
       "required": true
     }   
 },
