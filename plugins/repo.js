@@ -15,7 +15,7 @@ let dec = `*👋 Hello ${pushname}*
           
 📍𝖱𝖾𝗉𝗈 𝖫𝗂𝗇𝗄 ❤️‍🔥👇
 
-👨‍💻◦ https://github.com/kingmalvn/MIKU-MD 
+👨‍💻◦ https://github.com/inferno254/INFERNO-MD
 
 📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖲𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾 𝖬𝗒 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
 
@@ -27,7 +27,7 @@ let dec = `*👋 Hello ${pushname}*
 
 > *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ*
 `
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/n5vvij.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/oriknn.jpeg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
